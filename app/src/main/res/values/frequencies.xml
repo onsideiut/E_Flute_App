@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="note_prompt">Choose a note</string>
+    <string-array name="note_frequencies">
+        <item>C4(Middle C)</item>
+        <item>C#4</item>
+        <item>D4</item>
+        <item>D#4</item>
+        <item>E4</item>
+        <item>F4</item>
+        <item>F#4</item>
+        <item>G4</item>
+        <item>G#4</item>
+        <item>A4</item>
+        <item>A#4</item>
+        <item>B4</item>
+        <item>C5</item>
+        <item>C#5</item>
+        <item>D5</item>
+        <item>D#5</item>
+        <item>E5</item>
+        <item>F5</item>
+        <item>F#5</item>
+        <item>G5</item>
+        <item>G#5</item>
+        <item>A5</item>
+        <item>A#5</item>
+        <item>B5</item>
+        <item>C6</item>
+        <item>C#6</item>
+        <item>D6</item>
+        <item>D#6</item>
+        <item>E6</item>
+        <item>F6</item>
+        <item>F#6</item>
+        <item>G6</item>
+        <item>G#6</item>
+        <item>A6</item>
+        <item>A#6</item>
+        <item>B6</item>
+        <item>C7</item>
+        </string-array>
+</resources>
